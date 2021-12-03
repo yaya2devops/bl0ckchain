@@ -3,7 +3,7 @@
 **in this project we will have a functioning Blockchain with a solid grasp of how they work.**
  
  
- ##Cahier des charges:
+ ## Cahier des charges:
  
  ### Step 1: Building a Blockchain
  
