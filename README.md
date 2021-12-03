@@ -6,8 +6,8 @@
  ## Cahier des charges:
  
 ### Project Goal:
-- Having a functioning Blockchain with a solid grasp of how they work.
-- how Blockchains work & the fundamental technology behind them.
+- Having a functioning Blockchain with a solid grasp.
+- How Blockchains work & the fundamental technology behind them.
  
 ### Project Steps 
 * Step 1: Building a Blockchain
