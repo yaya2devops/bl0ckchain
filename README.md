@@ -7,7 +7,7 @@
  
 
  
-# Project Steps 
+### Project Steps 
 * Step 1: Building a Blockchain
  
 * Step 2: Our Blockchain as an API
