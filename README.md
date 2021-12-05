@@ -17,3 +17,9 @@
 * Step 3: Interacting with our Blockchain
  
 * Step 4: Consensus
+
+
+
+### Remarque:
+l'objectif du projet était de l'héberger dans Microsoft Azure à l'aide d'instances de conteneur(docker&azureWebApp)
+malchanceux, il n'a pas pu s'exécuter localement. J'ai déjà beaucoup essayé pour trouver une solution, mais cela n'a pas fonctionné.
