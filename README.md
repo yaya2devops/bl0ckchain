@@ -12,7 +12,7 @@
 ### Project Steps 
 ## Step 1: Building a Blockchain
 
-We’ll create a Blockchain class whose constructor creates an initial empty list (to store our blockchain), and another to store transactions.Our Blockchain class is responsible for managing the chain. It will store transactions and have some helper methods for adding new blocks to the chain. Let’s start fleshing out some methods.**
+**We’ll create a Blockchain class whose constructor creates an initial empty list (to store our blockchain), and another to store transactions.Our Blockchain class is responsible for managing the chain. It will store transactions and have some helper methods for adding new blocks to the chain. Let’s start fleshing out some methods.**
 **What does a Block look like?
 Each Block has an index, a timestamp (in Unix time), a list of transactions, a proof (more on that later), and the hash of the previous Block.**
 **Understanding Proof of Work:
