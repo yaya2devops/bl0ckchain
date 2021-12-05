@@ -39,5 +39,4 @@ Forge the new Block by adding it to the chain**
 
 
 ### Remarque:
-## l'objectif du projet était de l'héberger dans Microsoft Azure à l'aide d'instances de conteneur(docker&azureWebApp).malchanceux, il n'a pas pu s'exécuter localement.
-# J'ai déjà beaucoup essayé pour trouver une solution, mais cela n'a pas fonctionné.
+## l'objectif du projet était de l'héberger dans Microsoft Azure à l'aide d'instances de conteneur(docker&azureWebApp).malchanceux, il n'a pas pu s'exécuter localement.J'ai déjà beaucoup essayé pour trouver une solution, mais cela n'a pas fonctionné.
